@@ -9,4 +9,6 @@ body{
     width: 4px;
     height: 4px;
     background-color: white;
+    border: 3px solid greenyellow;
+    border-radius: 6px;
 }
